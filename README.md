@@ -23,4 +23,7 @@ This Jupyter notebook is is for an ML custom tool that allows you to edit images
 
 DEPENDENCIES: INCLUDED
 
+
+EXAMPLES:
+
 <img src='https://instruct-pix2pix.timothybrooks.com/teaser.jpg'/>
