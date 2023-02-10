@@ -27,6 +27,9 @@ DEPENDENCIES: INCLUDED
 EXAMPLES:
 
 <img src='https://instruct-pix2pix.timothybrooks.com/teaser.jpg'/>
+
 ![results_real](https://user-images.githubusercontent.com/121518935/218220633-eea57b0e-9922-412e-972d-637e909ef2cf.jpg)
+
 ![results_syn](https://user-images.githubusercontent.com/121518935/218220648-800b3555-f736-4710-916e-89455b9bacea.jpg)
+
 ![results_teaser (1)](https://user-images.githubusercontent.com/121518935/218220694-03f63c7c-94b1-473b-816a-b101f756b248.jpg)
