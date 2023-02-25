@@ -19,7 +19,7 @@ PROPERTY OF ABC 123 DESYGN ™
 
 🤖💭 ABOUT: 
 
-This Jupyter notebook is is for a custom A.I tool that allows you to edit images using only language instructions. PRE PRODUCTION ASSISTANT A ™ speeds up pre production workflows including storyboarding, concept art, location scouting, set design, costume and design etc.
+This Jupyter notebook is is for a custom A.I tool that allows you to edit images using only language instructions. PRE PRODUCTION ASSISTANT A ™ speeds up pre production workflows including storyboarding (previs), concept art, location scouting, set design, costume and design etc.
 
 - PYTHON (JUPYTER)
 
